@@ -34,3 +34,52 @@ h2{
 .map{
     margin-top: 30px;
 }
+    /*   section style */
+.section-wrapper{
+    margin-top: 35px;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Baloo 2';
+    color: blue;
+}
+h1{
+    width: 290px;
+    font-size: 35px;
+    font-family: 'Fredoka One';
+}
+.form-box{
+    display: flex;
+    margin-top: 25px;
+}
+.input-box{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+textarea{
+    font-size: 15px;
+    font-family: 'Baloo 2';
+    resize: none;
+    flex-grow: 3;
+    margin-right: 20px;
+    padding: 7px 0 0 7px;
+}
+input{
+    font-size: 15px;
+    font-family: 'Baloo 2';
+    background: #F8F8F8;
+    border: 2px solid #E8E8E8;
+    margin-bottom: 20px; 
+    padding: 10px;
+}
+button{
+    font-size: 18px;
+    font-family: 'Baloo 2';
+    color: #fff;
+    background-color: #5863F8;
+    border: none;
+    padding: 10px;   
+}
+
+<
