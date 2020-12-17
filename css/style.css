@@ -112,3 +112,21 @@ button{
     text-align: center;
     margin: 5px 0;   
 }
+/* responsive */
+@media (max-width:1024px){
+    .container{
+        width: 90%;
+    }
+    h4{
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width:768px){
+    .container{
+        width: 90%;
+    }
+    h4{
+        margin-bottom: 5px;
+    }
+}
